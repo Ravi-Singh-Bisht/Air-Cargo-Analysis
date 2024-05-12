@@ -10,7 +10,7 @@ Note: You must download the dataset from the course resource section in the LMS 
 
 1.Customer: Contains the information of customers
 
-customer_id – ID of the customer
+customer_id – ID of the customer /n
 first_name – First name of the customer
 last_name – Last name of the customer
 date_of_birth – Date of birth of the customer
